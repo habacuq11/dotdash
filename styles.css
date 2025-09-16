@@ -1,0 +1,22 @@
+a{
+    color: rgb(214, 37, 37);
+    font-style: normal;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body{
+    background-color: rgb(190, 190, 190);
+}
+
+p,h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.itch{
+    height: 40px;
+    width: 40px;
+}
+
+.ix{
+    margin: 5%;
+}
