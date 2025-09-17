@@ -159,14 +159,14 @@ footer a:hover img.itch {
 }
 
 @font-face {
-    font-family: 'OPTIOnyx';
-    src: url('OPTIOnyx.woff2') format('woff2'),
-        url('OPTIOnyx.woff') format('woff');
+    font-family: 'BlowBrush';
+    src: url('BlowBrush.woff2') format('woff2'),
+        url('BlowBrush.woff') format('woff');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
 }
 
 h1,h2{
-    font-family: OPTIOnyx;
+    font-family: BlowBrush;
 }
