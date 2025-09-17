@@ -33,13 +33,27 @@ header {
     box-shadow: 0 2px 12px 0 #0007;
 }
 
+.header-flex {
+    display: flex; /* Activa Flexbox */
+    justify-content: space-between; /* Espacia los elementos: texto a la izquierda, imagen a la derecha */
+    align-items: center; /* Asegura que estén alineados verticalmente */
+    width: 100%; /* Asegura que el contenedor ocupe todo el ancho del header */
+}
+
 header h1 {
-    margin: 0 0 0.5rem 0;
-    font-size: 2.2rem;
+    margin: 0; /* Elimina márgenes del h1 */
+    font-size: 2.2rem; /* Tamaño del texto */
     font-weight: 700;
-    color: "white";
+    color: var(--accent2); /* Usa tu color de acento */
     letter-spacing: 2px;
     text-shadow: 0 2px 8px #0006;
+}
+
+.logo-img {
+    height: 56px; /* Ajusta el tamaño de la imagen */
+    width: auto; /* Mantiene la proporción de la imagen */
+    margin-left: 1.2rem; /* Opcional: espacio entre el texto y la imagen */
+    filter: drop-shadow(0 2px 8px #0006); /* Agrega un pequeño sombreado */
 }
 
 .nav-container {
