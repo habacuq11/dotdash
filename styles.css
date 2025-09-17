@@ -157,3 +157,13 @@ footer a:hover img.itch {
         padding: 0.7rem 0.6rem;
     }
 }
+
+@font-face {
+    font-family: 'OPTIOnyx';
+    src: url('OPTIOnyx.woff2') format('woff2'),
+        url('OPTIOnyx.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
