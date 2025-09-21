@@ -192,6 +192,6 @@ h1,h2{
 }
 
 #img1, #img2{
-    width: 360px;
-    height: 640px;
+    width: 80%;
+    max-height: 640px;
 }
