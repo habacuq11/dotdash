@@ -108,6 +108,8 @@ main {
 }
 
 .card {
+    width: 70vw;
+    margin: 0 auto;
     background: var(--card-bg);
     border-radius: 1.2rem;
     margin-bottom: 2rem;
