@@ -190,3 +190,8 @@ footer a:hover img.itch {
 h1,h2{
     font-family: BlowBrush;
 }
+
+#img1, #img2{
+    width: 720px;
+    height: 1280px;
+}
